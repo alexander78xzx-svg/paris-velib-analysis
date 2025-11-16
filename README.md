@@ -9,8 +9,7 @@ This project is an end-to-end data analysis of the Paris Vélib' bike-sharing sy
 ### Live Interactive Dashboard
 
 This entire analysis is summarized in a live Tableau Public dashboard. Click the image below to interact with it.
-
-**[Clickable Screenshot of your Tableau Dashboard]** _(Insert a screenshot here, then make it a link by wrapping it: [![Dashboard screenshot](https://imgur.com/mGWeUMm)](https://public.tableau.com/app/profile/alexandru.bodnariuk/viz/velib_analysis_may-june_2024/Dashboard1?publish=yes)_
+[![Dashboard screenshot](https://imgur.com/mGWeUMm)](https://public.tableau.com/app/profile/alexandru.bodnariuk/viz/velib_analysis_may-june_2024/Dashboard1?publish=yes)_
 
 ----------
 
