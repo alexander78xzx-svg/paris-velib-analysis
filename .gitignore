@@ -1,0 +1,3 @@
+*.csv
+
+!velib_sample.csv
